@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.arlib.floatingsearchview.FloatingSearchView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/floating_search_view_height"
+        android:id="@+id/select_collegeFloatingsearch"
+        app:floatingSearch_close_search_on_keyboard_dismiss="true"
+        app:floatingSearch_dimBackground="false"
+        app:floatingSearch_dismissOnOutsideTouch="false"
+        app:floatingSearch_leftActionMode="showSearch"
+        app:floatingSearch_menu="@menu/menu_select_college"
+        app:floatingSearch_showSearchKey="false"
+        app:floatingSearch_suggestionsListAnimDuration="250"
+        app:floatingSearch_searchHint="Select College"
+        app:layout_scrollFlags="scroll|enterAlways"/>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/select_college_listView"></ListView>
+
+</LinearLayout>

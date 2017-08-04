@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="splashScreenBackground">#80D8FF</color>
+    <color name="teacherUI_primary">#AA00FF</color>
+    <color name="teacherUI_primaryDark">#6A1B9A</color>
+    <color name="studentUI_primary">#00B8D4</color>
+    <color name="studentUI_primaryDark">#00838F</color>
+    <color name="sendButtonBackground">#009688</color>
+    <color name="chatuserBackground_messageText">#CCFF90</color>
+</resources>

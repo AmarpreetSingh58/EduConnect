@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:background="@drawable/teacher_background_pattern"
+    tools:context="com.amarpreetsinghprojects.educonnect.Teacher.TeacherRegisterationActivity">
+
+    <TextView
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/teacherSignedinTV"
+        android:layout_centerInParent="true"
+        android:textSize="40sp"
+        android:gravity="center_horizontal"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Continue"
+        style="?android:borderlessButtonStyle"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:onClick="takeTonext"/>
+
+</RelativeLayout>

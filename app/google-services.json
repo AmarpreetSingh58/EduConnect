@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "861713853107",
+    "firebase_url": "https://fir-app-2f3cd.firebaseio.com",
+    "project_id": "fir-app-2f3cd",
+    "storage_bucket": "fir-app-2f3cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861713853107:android:4709650fc4421227",
+        "android_client_info": {
+          "package_name": "com.amarpreetsinghprojects.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861713853107-umgd47lcia9lqhs3479ce73d0tgep1l0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarpreetsinghprojects.firebaseapp",
+            "certificate_hash": "79445271e18c9181d5c471fbf9b853c735f423a3"
+          }
+        },
+        {
+          "client_id": "861713853107-mve60bkg4n5uotg5n8nvnnnqt407h2e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkheAcxdmYbTXyyo00wiQsstH_b0ekj-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861713853107-mve60bkg4n5uotg5n8nvnnnqt407h2e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861713853107:android:0d3ecd1745e8bf91",
+        "android_client_info": {
+          "package_name": "com.amarpreetsinghprojects.educonnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861713853107-7035ekuuohcdkrh9gp864fuj7lrb0218.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amarpreetsinghprojects.educonnect",
+            "certificate_hash": "79445271e18c9181d5c471fbf9b853c735f423a3"
+          }
+        },
+        {
+          "client_id": "861713853107-mve60bkg4n5uotg5n8nvnnnqt407h2e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkheAcxdmYbTXyyo00wiQsstH_b0ekj-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861713853107-mve60bkg4n5uotg5n8nvnnnqt407h2e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
